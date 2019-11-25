@@ -1,9 +1,9 @@
 {
   "app": {
     "title": "Betsafe Tic Game ",
-    "imagePath": "https://raw.githubusercontent.com/NolanGreens/apps/master/tic-tac-toe-male-vs-female.jpg",
-    "linkPath": "",
-    "linkAction": "#start",
+    "imagePath": "https://raw.githubusercontent.com/NolanGreens/apps/master/Betsafe.jpg",
+    "linkPath": "http://record.betsafe.com/_Y5JSRrhK3mgpQ_edKUoXTWNd7ZgqdRLk/1/?payload=a_2187",
+    "linkAction": "#web",
     "afid": "Xdwhdnqkbn6gauvVFABLJk"
   }
 }
